@@ -1,0 +1,27 @@
+body {
+    background: #24353f;
+    font-family: 'Titillium Web', sans-serif;}
+
+    .head-box {
+        box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+       margin-top: 70%;
+   
+    }
+    .head{
+      box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+
+    }
+    .container{
+    width: 75%;
+    
+  }
+  .navbar-nav a{
+    border: 1px solid #ffc107;
+  }
+  .navbar{
+    margin-bottom: 16%;
+  }
+  h1{
+    color: #17a2b8;
+    font-size: 2.5rem;
+  }
